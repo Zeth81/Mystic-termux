@@ -12,8 +12,13 @@ global.owner = [
   ['51919730753', '💫 Mystic - Collaborator 1 💫', true],
 
 global.suittag = ['51919730753'] 
-global.prems = ['51995386439'] 
+global.prems = ['50247342200'] 
 
+global.sms = 'Gracias por comunicarte con Zëthian bot. 
+
+Para adquirir el bot debes compartir un link a minimo 10 adv's. 
+Si no cuentas con los adv's suficientes comunícate directamente con el dueño del bot para llegar a un acuerdo. 
++502 4734 2200'
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
